@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+pandas
+pydantic-settings
+python-dotenv
+supabase
